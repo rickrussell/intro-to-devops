@@ -1,0 +1,29 @@
+Section 1: Introduction (Understand what this course is about, who your instructors are and how it is structured)
+Lecture 1: Welcome to the Course! (I think this should be a talking head where I tell students how happy we are that they enrolled, give them an overview of the course and explain the structure of the course.)
+Lecture 2: Meet Marc (I will do a talking head to introduce myself and explain that DevOps is new for me too!)
+Lecture 3: Meet Akshat (You may feel free to do a voice over a slide show. Or, if you like do a pic-in-pic. Whatever you prefer to do to introduce yourself. I think it's important that you do mention that you have hands-on, day-to-day experience with DevOps.)
+
+Section 2: DevOps Background and Concepts (Learn why, when and how DevOps came about. Learn the DevOps vocabulary and what it means.)
+Lecture 4: A Brief History of DevOps (When did DevOps first become a thing?
+
+Why did DevOps become a thing?
+
+How did DevOps become a thing?)
+Lecture 5: What is DevOps? (Is DevOps a philosophy?
+
+Is DevOps a tool?
+
+Is DevOps just some fad?
+
+What do we mean when we talk about DevOps in this course?)
+Lecture 6: What is the Lexicon of DevOps? (Every discipline develops its own vocabulary and DevOps is no different from other disciplines in that regard. This lecture will serve as your dictionary or glossary for the most common terminology people use when they talk about DevOps.)
+
+Section 3: DevOps Tools (Learn what types of tools are used to implement DevOps and the names of some specific products for those tools)
+Lecture 7: The tool list (I couldn't think of a good name for this lecture. It seems strange to just call the lecture the same thing as the section title. I am thinking that we probably do want to have just one lecture in this section. Do you think it makes sense to break lectures into the different types of tools? Do we want to split it into two lectures: Developer tools and Operations tools?)
+
+Section 4: Benefits of Implementing DevOps (Learn what implementing DevOps can do for you!)
+Lecture 8: How DevOps Improves the Software Development Life Cycle (If you really hope to start "doing DevOps", you need to know that it's going to make things better. This lecture helps you understand what will be better and how DevOps helps to make it better.)
+Lecture 9: How DevOps Saves Time and Money (You might want to know how much implementing DevOps is going to cost you. A better question is really how much it's going to cost you to not do DevOps. The best thing is that DevOps can actually save you money! This lecture will help you understand how investing in DevOps ends up providing a tangible return to your bottom line.)
+
+Section 5: Getting Started with DevOps (Choose your next steps in your DevOps journey)
+Lecture 10: A Potential Roadmap (I'm struggling with a lecture title for this as well. I am thinking that there will be only one lecture in this section. I think this would be a good talking head lecture that has something like a checklist attached as a resource.)

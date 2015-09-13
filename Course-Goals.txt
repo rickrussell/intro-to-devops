@@ -1,0 +1,14 @@
+State what DevOps is and what it is not
+Differentiate between the different tools involved in DevOps and what the tools do
+Explain the benefits that using a DevOps approach provides
+
+You have heard the term "DevOps" but don't really know what it means
+You are interested in building your conceptual understanding of "DevOps"
+You believe that implementing "DevOps" may improve your software development process and are interested in learning more about how that could be the case for you
+You believe that implementing "DevOps" may save you money and are interested in learning more about how that could be the case for you
+Do not take this course if you are expecting to learn hands-on strategies to using specific DevOps tools
+Do not take this course if you are expecting to receive recipes or cookbooks on how to "do DevOps"
+
+You should be an individual who is involved in the definition, creation, deployment or support of some type of software product
+
+Beginner Level
