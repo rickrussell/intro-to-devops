@@ -8,3 +8,4 @@ Here are links to the Blabs:
 
 Here are other sources we've used in creating this course:
 * [Udacity Introduction to DevOps course](https://www.udacity.com/course/intro-to-devops--ud611)
+* [An Introduction to DevOps](http://devops.com/2014/04/02/introductiontodevops)
