@@ -1,4 +1,4 @@
-# intro-to-devops
+# What is the repository?
 Resources for the Introduction to DevOps course
 
 ## Reference
