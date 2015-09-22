@@ -1,4 +1,4 @@
-# What is the repository?
+# What is this repository?
 Resources for the Introduction to DevOps course
 
 ## Reference
