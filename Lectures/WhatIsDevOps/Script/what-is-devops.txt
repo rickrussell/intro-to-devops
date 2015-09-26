@@ -1,0 +1,65 @@
+Before we get started with our
+
+Introduction to DevOps,
+
+it's important to define
+
+what we mean by DevOps and
+
+how it compares to
+
+what other people may mean
+
+when they use the term DevOps.
+
+A general definition of DevOps could be:
+
+"DevOps is an approach to developing and delivering software
+
+that utilizes a set of procedures and tools
+
+to facilitate the collaboration between
+
+developers and operations, with the goals of:
+
+reducing manual interaction
+
+in the process of building and delivering software,
+
+increasing the quality of the software,
+
+improving monitoring of key performance indicators
+
+and encouraging cross-functional buy-in and investment
+
+in product creation from conception through deployment."
+
+The exact definition is not what's most important.
+
+The most important things to keep in mind are:
+
+DevOps is not just a philosophy.
+
+DevOps is not just a set of tools.
+
+DevOps is a combination of a philosopy with
+
+a set of tools.
+
+The combination of philosophy and tools
+
+works to promote a cultural mindset.
+
+In this course, we will be focusing on
+
+giving you a conceptual understanding of 
+
+the tools and the terminology related to DevOps.
+
+We will not be focusing on the philosophical or cultural apsects,
+
+nor will we be training you on the detailed use of the tools.
+
+To begin our exploration, let me first talk about when DevOps
+
+first came about.
