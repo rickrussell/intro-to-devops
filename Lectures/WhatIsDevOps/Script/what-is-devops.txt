@@ -63,3 +63,149 @@ nor will we be training you on the detailed use of the tools.
 To begin our exploration, let me first talk about when DevOps
 
 first came about.
+
+The first documentable use of the term DevOps
+
+occurred at a conference in 2009.
+
+If you are curious,
+
+you can read more about it at:
+
+http://www.devopsdays.org/events/2009-ghent/
+
+You might be wondering what organizations
+
+were doing before they started doing DevOps.
+
+The short answer is that there was a lot of
+
+compartmentalization and a lack of cross-functional collaboration.
+
+As a result, there was also a great deal more of
+
+finger pointing and "not my problem" attitude.
+
+However, I don't mean to overstate things.
+
+It's not that all those problems have
+
+completely disappeared from every organization
+
+now that DevOps is on the scene.
+
+Nor is it the case that there weren't
+
+any organizations using any sort of
+
+collaborative approaches.
+
+For instance the concepts around Agile
+
+can be traced back long before when
+
+The Agile Manifesto was published in 2001.
+
+And, if you will allow me the liberty,
+
+it's reasonable to consider DevOps
+
+an outgrowth of Agile.
+
+But, let me avoid going to deep
+
+down that rabbit hole.
+
+I'll just leave it at:
+
+Prior to implementing DevOps
+
+organizations are more compartmentalized;
+
+After implementing Devops
+
+organizations are more collaborative
+
+and cross-functional.
+
+Are you good with that?
+
+If you'd like to read more,
+
+check out the links I've included
+
+in the Resources section of this lecture.
+
+At this point, you could probably answer the questions
+
+"Why did DevOps become a thing?" and
+
+"How did DevOps become a thing?" on your own.
+
+For the sake of completeness,
+
+I'll answer those question right now.
+
+DevOps became a thing because people recognized:
+
+There was a problem that could be addressed;
+
+Developers and Operations people had tools
+
+and processes that could be helpful to
+
+the people on the "other side";
+
+There is no "other side".
+
+We're all on the same team.
+
+DevOps became a thing by
+
+a group of people getting together
+
+and holding a true conversation.
+
+Let me wrap this lecture up by addressing:
+
+Is DevOps really a thing?
+
+Is it just the latest thing?
+
+Is it a fad?
+
+Recall what I said earlier:
+
+DevOps is a combination of a philosophy
+
+with a set of tools.
+
+The tool set can certainly continue to evolve.
+
+The philosophy has proven its worth.
+
+We'll cover that more in subsequent lectures.
+
+I'm willing to state that
+
+DevOps is the new reality in organizations
+
+that are serious about
+
+"doing software development right."
+
+DevOps isn't go away any more than
+
+the Internet is going away.
+
+Welcome to the DevOps age!
+
+Make yourself comfortable as
+
+we continue through the rest of this course
+
+and as you begin to implement DevOps
+
+as your new paradigm in your organization.
+
+See you in the next lecture!
