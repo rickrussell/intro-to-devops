@@ -30,6 +30,9 @@ Lecture 8: The tool list (I couldn't think of a good name for this lecture. It s
 * If the automated tests don't pass then a message is sent back about what failed.
 
 The idea is that walking through that sequence gives an opportunity to discuss the various tools that come into play.)
+
+Chef, Puppet, Nagios, Zabbix, InfluxDB, Grafana, PagerDuty, Ganglia, Graphite, Statsd, Munin, Splunk, Logstash, Rundeck, MCollective, Ansible, SaltStack, Pallet, Docker, Vagrant, Jenkins, Travis, Git, Packer, VirtualBox, 
+
 Quiz: I think a quiz is suitable for this section (Help the students to reinforce their understanding of the different types of tools and what each one does.)
 
 Section 4: Benefits of Implementing DevOps (Learn what implementing DevOps can do for you!)
