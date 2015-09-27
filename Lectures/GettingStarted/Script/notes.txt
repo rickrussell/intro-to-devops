@@ -1,0 +1,14 @@
+Gather up everybody and do a short project
+Choose a problem that is small enough to have meaningful interations
+Iterate on features in small batches
+Get feedback from customers
+Choose languages and tools that fit the task
+Ignore scale
+Solve theory arguments through execution, not more theoretical arguments
+Demo every week
+Use source control
+Have a bug database
+Follow a single workflow
+At least two people look at everything
+Incorporate all the DevOps practices
+Deliver a final product
