@@ -74,6 +74,10 @@ you can read more about it at:
 
 http://www.devopsdays.org/events/2009-ghent/
 
+For your convenience, I have included the link
+
+in the Resources section for this lecture.
+
 You might be wondering what organizations
 
 were doing before they started doing DevOps.
@@ -112,7 +116,7 @@ it's reasonable to consider DevOps
 
 an outgrowth of Agile.
 
-But, let me avoid going to deep
+But, let me avoid going too deep
 
 down that rabbit hole.
 
@@ -194,7 +198,7 @@ that are serious about
 
 "doing software development right."
 
-DevOps isn't go away any more than
+DevOps isn't going away any more than
 
 the Internet is going away.
 
