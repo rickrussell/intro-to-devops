@@ -1,0 +1,28 @@
+DevOps = Development and Operations
+But what constitutes development and operations?
+Development is comprised of all the roles that participate in developing the product.
+Business People, Project Managers, Product Managers, QA Testers, Programmers, Designers
+Operations is comprised of all the roles that participate in the release and deployment of the product.
+Systems engineers, DBAs, network engineers, security team, system administrators, release engineers.
+
+Continuous Integration
+Continous Delivery
+Continuous Deployment
+
+Version control
+Local environment
+Development environment
+Test / Staging / Integration environment
+Production environment
+
+Configuration management
+Provisioner
+Virtualization
+Containerization
+
+Automated testing
+Automated build
+
+Monitoring
+
+Scaling
