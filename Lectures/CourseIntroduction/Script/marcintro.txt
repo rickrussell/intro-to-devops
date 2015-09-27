@@ -1,0 +1,49 @@
+Hi, I'm Marc Isaacson.
+
+I'm really glad to be co-teaching
+
+this course with Akshat.
+
+I began my programming career in 1989.
+
+I worked on an IBM AS/400 writing
+
+code in RPG.
+
+There was no concept of version control
+
+or a local development environment.
+
+There truly was no collaboration between
+
+developers and the operations people.
+
+I don't believe we used
+
+any automation tools, either.
+
+In 2001 I pursued other interests,
+
+returning to programming in 2010.
+
+As I learned web development
+
+I became exposed to things like
+
+local development environments,
+
+version control, patches
+
+and commits.
+
+However, I'm far from an expert
+
+in DevOps.
+
+I'll be learning new things
+
+as I collaborate on teaching this course.
+
+I'm excited to build my DevOps knowledge
+
+and hope that you are too!
