@@ -1,12 +1,15 @@
 DevOps = Development and Operations
+Business -> Engineering -> Operations
 But what constitutes development and operations?
 Development is comprised of all the roles that participate in developing the product.
 Business People, Project Managers, Product Managers, QA Testers, Programmers, Designers
 Operations is comprised of all the roles that participate in the release and deployment of the product.
 Systems engineers, DBAs, network engineers, security team, system administrators, release engineers.
 
-Continuous Integration
-Continous Delivery
+Continuous Development?
+Continuous Integration - Jenkins
+? Integrating branches back into master
+Continous Delivery - you can ship to your customer whatever product you want whenver you feel like it without drama
 Continuous Deployment
 
 Version control
@@ -15,10 +18,11 @@ Development environment
 Test / Staging / Integration environment
 Production environment
 
-Configuration management
-Provisioner
-Virtualization
-Containerization
+Configuration management - make sure production and development environment are defined the same way
+Provisioner - One piece that is defined in the congifuration management. Infrastructure as code. Chef, Puppet
+
+Virtualization - One way to provision an image / environment
+Containerization - Another way to provision an image / environment
 
 Automated testing
 Automated build
@@ -26,3 +30,16 @@ Automated build
 Monitoring
 
 Scaling
+
+CAMS - Culture, Automation, Monitoring, Sharing
+Automation - Release management, provisioning, configuration management, systems integration, monitoring, orchestration
+Automate all the things! => Automate software & infrastructure!
+Both application code and configuration management code are under version control
+
+pair programming
+ubiquitous code review
+
+unit tests - a single function
+integration tests - multiple classes / units
+functional tests - user-oriented, high level, full stack
+smoke tests - turn it on and see if it smokes / see if any smoke comes out of the plumbing
