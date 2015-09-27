@@ -16,7 +16,7 @@ Is DevOps a tool?
 Is DevOps just some fad?
 
 What do we mean when we talk about DevOps in this course?)
-Lecture 6: What is the Lexicon of DevOps? (Every discipline develops its own vocabulary and DevOps is no different from other disciplines in that regard. This lecture will serve as your dictionary or glossary for the most common terminology people use when they talk about DevOps.)
+Lecture 6: What is the Lexicon of DevOps? (Every discipline develops its own vocabulary and DevOps is no different from other disciplines in that regard. This lecture will serve as your dictionary or glossary for the most common terminology people use when they talk about DevOps. I think a good way for us to set this whole course up is that I'm the Developer and you are the Operations person. I'm totally new to DevOps and you are experienced.)
 
 Section 3: DevOps Tools (Learn what types of tools are used to implement DevOps and the names of some specific products for those tools)
 Lecture 7: The tool list (I couldn't think of a good name for this lecture. It seems strange to just call the lecture the same thing as the section title. I am thinking that we probably do want to have just one lecture in this section. Do you think it makes sense to break lectures into the different types of tools? Do we want to split it into two lectures: Developer tools and Operations tools?)
