@@ -13,6 +13,8 @@ Here are other sources we've used in creating this course:
 * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
 * [Udacity Introduction to DevOps course](https://www.udacity.com/course/intro-to-devops--ud611)
 * [An Introduction to DevOps](http://devops.com/2014/04/02/introductiontodevops)
+* [New Relic's list of tools for DevOps](http://newrelic.com/devops/toolset)
+* [Periodic table of DevOps tools](https://xebialabs.com/periodic-table-of-devops-tools/)
 * [Chef](https://learn.chef.io/)
 * [Puppet](https://learn.puppetlabs.com/category/self-paced-training)
 * [Ansible](http://www.ansible.com/resources)
