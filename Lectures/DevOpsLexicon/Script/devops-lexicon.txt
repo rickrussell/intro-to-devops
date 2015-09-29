@@ -1,45 +1,387 @@
-DevOps = Development and Operations
-Business -> Engineering -> Operations
-But what constitutes development and operations?
-Development is comprised of all the roles that participate in developing the product.
-Business People, Project Managers, Product Managers, QA Testers, Programmers, Designers
-Operations is comprised of all the roles that participate in the release and deployment of the product.
-Systems engineers, DBAs, network engineers, security team, system administrators, release engineers.
+Every discipline creates its own vocabulary.
 
-Continuous Development?
-Continuous Integration - Jenkins
-? Integrating branches back into master
-Continous Delivery - you can ship to your customer whatever product you want whenver you feel like it without drama
-Continuous Deployment
+If you want to be able to thrive in DevOps
 
-Version control
-Local environment
-Development environment
-Test / Staging / Integration environment
-Production environment
+you will need to learn its vocabulary.
 
-Configuration management - make sure production and development environment are defined the same way
-Provisioner - One piece that is defined in the congifuration management. Infrastructure as code. Chef, Puppet
+So, how about if I start by explaining
 
-Virtualization - One way to provision an image / environment
-Containerization - Another way to provision an image / environment
+what DevOps means?
 
-Automated testing
-Automated build
+DevOps is a combination of the words
 
-Monitoring
+Development and Operations.
 
-Scaling
+Well, that might have been
 
-CAMS - Culture, Automation, Monitoring, Sharing
-Automation - Release management, provisioning, configuration management, systems integration, monitoring, orchestration
-Automate all the things! => Automate software & infrastructure!
-Both application code and configuration management code are under version control
+pretty obvious to you already.
 
-pair programming
-ubiquitous code review
+Let me dig a little bit deeper than that.
 
-unit tests - a single function
-integration tests - multiple classes / units
-functional tests - user-oriented, high level, full stack
-smoke tests - turn it on and see if it smokes / see if any smoke comes out of the plumbing
+For starters, you can think of most businesses
+
+as divided into:
+
+Business, Engineering and Operations
+
+or terms similar to those.
+
+The "Dev" part of DevOps refers to both
+
+Business and Engineering.
+
+It's all the roles that participate in
+
+developing the product.
+
+Some titles of the different business roles can include:
+
+CEO, Project Manager and Product Managers.
+
+But, you also should think of
+
+people in sales.
+
+Some titles of the different Engineering roles can include:
+
+Designers, Programmers and QA Testers.
+
+The "Ops" part of DevOps is comprised of
+
+all the roles that participate in
+
+the release and deployment of the product.
+
+Some titles of the different Operations roles can include:
+
+DBAs, systems engineers, network engineers, system administrators,
+
+release engineers and security team.
+
+One key point to keep in mind is that DevOps is meant to include
+
+every role that is involved in ensuring that the company delivers
+
+a great product to the customer.
+
+An acronym that is meant to capture the
+
+broad reaching:
+
+CAMS, which stands for
+
+Culture, Automation, Monitoring and Sharing.
+
+As mentioned earlier in the course,
+
+we will be focusing on the tools and processes.
+
+So, you will get a chance to learn a good deal
+
+about the Automation and Monitoring aspects.
+
+It's still important that you are aware of the
+
+Cultural and Sharing aspects as well.
+
+Remember, that for DevOps to be truly successful
+
+there needs to be a certain Culture in place
+
+within the organization.
+
+Part of that Culture is recognizing the importance
+
+of all the roles being involved in delivering
+
+a great product.
+
+Another part of the Culture is the emphasis
+
+placed on Sharing information throughout
+
+the organization.
+
+There is a lot of information that can be shared
+
+and it's beyond the scope of this course
+
+to go into detail about any of it.
+
+Just know that all the roles have
+
+the opportunity to gather data that
+
+can be turned into valuable information.
+
+Now I'd like to turn my attention to
+
+the terms you will hear that are related to
+
+the tools and processes involved with DevOps.
+
+One key tool is Version Control.
+
+In order to Automate processes,
+
+it is necessary for both Software
+
+and Infrastructure to be placed in code.
+
+Version control provides a mechanism to
+
+allow people (and machines) to get access
+
+to the code and to keep a history of
+
+the changes that have been made to the code.
+
+Version Control also provides a mechanism
+
+to allow for moving changes between environments.
+
+A typical set of environments used in DevOps is:
+
+Local, Development, Test / Staging / Integration
+
+and Production.
+
+A Local environment is simply the computer
+
+that an individual programmer uses.
+
+A Development environment exists on
+
+a remotely accessible computer and
+
+is the first place where the changes
+
+made by different programmers
+
+are combined.
+
+Typically, a Development environment will have
+
+a stripped down set of data and / or data
+
+that has been created by the programmers.
+
+A Test / Staging / Integration environment is
+
+a mirror of the Production environment that
+
+allows for testing on actual data
+
+prior to releasing the code to the customer.
+
+The Production environment is the environment
+
+that the customer accesses.
+
+A critical piece of DevOps that aids in
+
+detecting and fixing bugs is ensuring
+
+that all of the environments are
+
+built the same way.
+
+Configuration management tools are used
+
+to define how the environments are built.
+
+Provisioners are tools that are specified
+
+in the configuration management that complete
+
+the actual process of building the environments.
+
+There are different ways that the environments are provisioned.
+
+Some organizations choose to use Virtualization
+
+and others choose to use Containerization.
+
+For now, don't worry about the technical
+
+differences between the two choices.
+
+The terms related to getting from
+
+one environment to the next are:
+
+Continuous Development, Continuous Integration,
+
+Continuous Deployment and Continuous Delivery.
+
+Continuous Development is what happens
+
+in a Local environment.
+
+A programmer has a branch of the code
+
+and is able to roll right along with
+
+her/his tasks generating "commits"
+
+as s/he goes.
+
+Think of a branch of code as
+
+an individual copy of the
+
+"official" code.
+
+You can think of a commit as
+
+a chunk of code that accomplishes
+
+a certain desired change
+
+to the existing functionality.
+
+These definitions of branch and
+
+commit are imperfect, but should
+
+make things clear enough for now.
+
+Continuous Integration means that
+
+the programmer is constantly incorporating
+
+her/his commits into the Development environment.
+
+Continuous Deployment means that the
+
+changes incorporated into the
+
+Development Environment are
+
+automatically tested and moved into
+
+the Test / Staging / Integration environment.
+
+Continuous Delivery means that the changes are
+
+also incorporated into the Production environment.
+
+Not everybody uses all of those "Continuous" terms and
+
+not everybody defines them in the same way.
+
+Nonetheless, the terms I have used and
+
+the way I have defined them should
+
+give you a good foundation of
+
+the concepts and processes that are
+
+part and parcel of Automation.
+
+They cover the gamut of the automation of
+
+both testing code and building
+
+environments and release packages.
+
+Different types of tests that can run
+
+throughout the process include:
+
+Unit, Integration, Functional and Smoke.
+
+Unit testing is done on a single function
+
+by the programmer in a Local environment.
+
+Integration testing runs on multiple Units
+
+and can run in both a Local environment
+
+and a Development environment.
+
+Functional testing is user-oriented and
+
+high level and typically runs in the
+
+Test / Staging / Integration environment.
+
+Smoke tests can be run in any environment,
+
+but will typically run in a Production environment
+
+to give a quick check if anything major crops up.
+
+Smoke tests derive their name from
+
+a couple different places.
+
+One is the idea of plugging something in
+
+and seeing if any smoke starts to rise.
+
+The other idea is related to plumbers
+
+blowing smoke through the pipes to
+
+detect any leaks before water
+
+is run through the pipe.
+
+Monitoring typically occurs in a Production environment.
+
+As mentioned earlier, there is a tremendous amount
+
+of data that can be turned into valuable information.
+
+Monitoring tools analyze the data to detect
+
+whether any alerts need to be sent out.
+
+One metric that will generally be monitored
+
+is resource utilization.
+
+If the tools detect that resources
+
+are running low, then they can trigger
+
+the deployment of more Production environments.
+
+If the tools detect that resources
+
+are being underutilized, they can trigger
+
+processes to shut down Production environments.
+
+The act of creating and destroying Production environments
+
+is known as scaling.
+
+As DevOps has no official arbiter,
+
+and thus no official lexicon,
+
+I don't claim that I have covered
+
+every term or concept.
+
+You may encounter additional terms and concepts,
+
+for example, pair programming and ubiquitous code review
+
+when discussing DevOps.
+
+I do believe that this (relatively) brief lecture
+
+has covered a good percentage, though.
+
+So, now that you've gotten a grasp
+
+on the vocabulary it's time to start
+
+using it in context!
+
+See you in the next lecture.
