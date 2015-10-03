@@ -1,3 +1,0 @@
-1. read about tools license and how to incorporate into existing project
-2. Community is the key
-3.
