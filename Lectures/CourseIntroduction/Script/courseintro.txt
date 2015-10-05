@@ -30,6 +30,16 @@ We conclude with some ideas of
 
 how you can get started with DevOps.
 
+We have included an exercise or quiz
+
+in each section and it's important
+
+for you to complete these.
+
+They are designed to ensure that
+
+you are grasping the key points.
+
 Before we get started with the actual material
 
 we'd like to introduce ourselves.
