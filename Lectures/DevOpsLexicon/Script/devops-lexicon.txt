@@ -66,7 +66,7 @@ a great product to the customer.
 
 An acronym that is meant to capture the
 
-broad reaching:
+broad reaching implications of doing DevOps is:
 
 CAMS, which stands for
 
@@ -320,7 +320,7 @@ a couple different places.
 
 One is the idea of plugging something in
 
-and seeing if any smoke starts to rise.
+and seeing if emits any smoke.
 
 The other idea is related to plumbers
 
