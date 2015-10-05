@@ -1,0 +1,35 @@
+Welcome to "Introduction to DevOps"!
+
+Akshat and I are honored to
+
+have you as a student.
+
+We've broken the course into sections
+
+to help organize the material.
+
+The course is mainly conceptual in nature
+
+but we still cover certain details.
+
+We progress from building your understanding
+
+of the history of DevOps and
+
+the terminology used in DevOps
+
+to the tools used in DevOps.
+
+Then we continue with an explanation of
+
+how you can benefit from adopting
+
+a DevOps culture and approach.
+
+We conclude with some ideas of
+
+how you can get started with DevOps.
+
+Before we get started with the actual material
+
+we'd like to introduce ourselves.
