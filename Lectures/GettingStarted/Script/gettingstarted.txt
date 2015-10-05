@@ -1,0 +1,189 @@
+I hope that we have done a good job of
+
+introducing you to DevOps and its benefits
+
+and that you have decided that
+
+you do wish to implement DevOps
+
+within your organization.
+
+Let me give you some suggestions on
+
+how you can get started.
+
+Since the key factor in ensuring
+
+that DevOps will succeed in your organization
+
+is creating the proper culture,
+
+I suggest that you first obtain
+
+buy-in from the people within your organization.
+
+Sit down and make sure that you
+
+are using a common vocabulary and
+
+that you all mean the same thing
+
+when you use a given word
+
+in that vocabulary.
+
+Get right into the Sharing aspect
+
+by having everybody share their
+
+thoughts, including any concerns
+
+that they have.
+
+Hold off on getting into the tools
+
+and the processes until after
+
+you are entirely sure that everybody
+
+is on board.
+
+Once you are sure that everybody is on board
+
+then choose a short project on which
+
+you'd like to begin to build
+
+your DevOps mastery.
+
+You want to be able to include
+
+all of the DevOps practices.
+
+The project should be short enough
+
+that you can complete it
+
+without having to risk too much time or money
+
+and long enough that you have
+
+the chance to complete some meaningful iterations.
+
+You want to be able to complete at least
+
+three or four demonstrations during
+
+the course of the project,
+
+including the delivery
+
+of a "final" product.
+
+The demonstrations give you deadlines
+
+to release new features.
+
+Ideally, you should complete a demonstration every week.
+
+Having to demo every week
+
+forces you to practice the "continuous"
+
+aspects of DevOps.
+
+The demonstrations also give you
+
+the opportunity to collect feedback
+
+and then make any necessary changes
+
+as a result of that feedback.
+
+Choose whatever languages and tools
+
+are best suited to the project you have selected,
+
+even if they are different from what you have been using.
+
+Ignore "scale" issues.
+
+Use source control.
+
+Maintain a bug database.
+
+Follow a single, consistent workflow.
+
+Make sure that at least two people
+
+look at everything.
+
+Recognize that this process
+
+is about practicing building
+
+a new culture and skill set.
+
+While it's great if you are able
+
+to end this first exploration
+
+with a useable final product,
+
+it's not a failure if you don't.
+
+The main point of this exploration
+
+is for your organization to
+
+learn how to do DevOps.
+
+The experience should be
+
+both educational and energizing.
+
+You will be learning a lot of new things
+
+and you should expect that you are
+
+going to make mistakes.
+
+Failure is something that
+
+you can embrace when you start
+
+to implement DevOps.
+
+As you improve your DevOps process
+
+you will find that you become
+
+better at quickly responding to failures.
+
+You will learn that the whole approach
+
+is designed to make it safe
+
+to make mistakes.
+
+Once you have finished
+
+this first exploration
+
+hold a post-mortem and debriefing
+
+to allow everybody to share
+
+their lessons learned and to
+
+give feedback on how to best move forward.
+
+Please share your experiences
+
+by posting to the Discussion board.
+
+We'd love the opportunity
+
+to learn from you!
+
+Thanks for taking this class!
