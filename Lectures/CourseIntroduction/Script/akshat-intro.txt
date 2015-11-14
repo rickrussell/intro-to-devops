@@ -1,19 +1,17 @@
-Hi! I am Akshat Goel.
+Hey there! I am Akshat Goel.
 
 I am from India and is really excited to join Marc 
 
 in creating this great learning experience for you.
 
-I have been working as software developer since 6 years.
+A little about myself. I have been working as software developer since 6 years.
 
-Starting from small freelance projects to being contributor for one of the most used
+I started my career from small freelance projects to being a developer for one of the most used
 
-product in the world, Acrobat Reader. 
-
-So, anytime you see that balloon pop up for upgrading your Reader version, you know who to blame.
-
-I have worked on small scripts to automate my dull daily tasks to creating apps used by million of users.
+desktop product in the world, Acrobat Reader. 
 
 With this course, I hope to share with you lessons I learned on my way to managing large code bases and teams.
+
+In my free time, I like to travel to Himalayas or read about others' journeys. So, if you have any questions for your next adventure to the mighty mountains, you know where to find me.
 
 I am thrilled to get started with the course. So, let's get rolling!

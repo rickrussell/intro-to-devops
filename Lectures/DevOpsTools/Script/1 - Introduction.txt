@@ -2,4 +2,42 @@
 2. Tell that we are not endorsing any particular tool. Team should collaborate together to choose what works best for them
 3. Why tools are useful and when they are not
 4. give idiom example.
-8. 
+
+
+Hi! I am so excited you made it this far.
+
+By now, you probably have a clear idea of what DevOps is and why you may need it. In coming sections, we will explore more about different categories of tools that you may use in your organization. We will also use some of the industry used tools in those categories.
+
+Later, we will see how you can benefit from DevOps and what are some of the pitfalls you should avoid while going from idea to execution.
+
+Since, we have so much to cover in the section, without further ado, let's get rolling!!
+
+We will start with tools. There is a famous proverb. 
+
+“Who picks a tool unsuited to a task should not complain 
+
+if it does no more than cut the hand that holds it.”
+
+I feel it is a fantastic quote to emphasize how much important tools are for a professional.
+
+Imagine a blacksmith using a candle to cast iron. Unimaginable right? Tools are as much important in Software industry as in any other.
+
+Imagine 2 developers submitting code to same file without a version control. Overwriting changes of one another, no history of changes.. In this "build fast, ship fast" environment, things may go downwards pretty soon.
+
+
+That's why we have an entire section dedicated for it.
+
+
+Before we actually get started with different types of tools available, we would like to emphasize that we don't support or discourage any particular tools usage.
+
+There is no unicorn or magic bullet that can solve all your organization's tooling issues.
+
+With this section, we aim to give you a brief overview of different types of tools that your organization may need and a few examples of each type of tool.
+
+It is you and your team who is in best position to assess the need of a particular type of tool and choose the one that fits your goals best!
+
+
+When making any decision for tools, please talk to your team. We can't emphasize the importance of collaboration enough.
+
+ 
+
