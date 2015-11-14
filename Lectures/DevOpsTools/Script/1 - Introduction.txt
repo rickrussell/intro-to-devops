@@ -6,7 +6,7 @@
 
 Hi! I am so excited you made it this far.
 
-By now, you probably have a clear idea of what DevOps is and why you may need it. In coming sections, we will explore more about different categories of tools that you may use in your organization. We will also use some of the industry used tools in those categories.
+By now, you probably have a clear idea of what DevOps is and why you may need it. In coming sections, we will explore more about different categories of tools that you may use in your organization. We will also see some of the industry used tools in those categories.
 
 Later, we will see how you can benefit from DevOps and what are some of the pitfalls you should avoid while going from idea to execution.
 
